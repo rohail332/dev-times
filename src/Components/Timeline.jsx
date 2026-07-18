@@ -15,7 +15,7 @@ const Timeline = () => {
                         <div className="light font-semibold tracking-wide uppercase text-[0.87rem]">July 2025 – Present</div>
                         <div className="times">
                             <h2 className="font-semibold text-[1.2rem] tracking-wide "> Founder and CEO</h2>
-                            <h3 className=" light tracking-wider ">Print Syntax</h3>
+                            <h3 className=" light tracking-wider ">Print Syntax, Lahore PK</h3>
                             <p className="mt-1 tracking-wide text-[1rem]">  I founded Print Syntax to build impactful technology solutions. I manage the company, lead development teams, work closely with clients, oversee products and actively develop SaaS applications and open source projects.</p>
                         </div>
                     </div>
