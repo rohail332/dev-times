@@ -36,7 +36,7 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-4F8EF7?style=for-the-badge&logo=github&logoColor=white)](https://rohail332.github.io/dental-clinic/).
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-4F8EF7?style=for-the-badge&logo=github&logoColor=white)](https://dev-times-bice.vercel.app/).
 
 </div>
 
