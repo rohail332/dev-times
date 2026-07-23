@@ -3,8 +3,6 @@
 # 📰 Dev Times
 
 **Dev Times** is a personal newspaper style developer portfolio built with React. It presents my background, experience, featured projects and professional journey through an editorial inspired layout.
-<!-- A newspaper inspired portfolio built with React and Tailwind CSS showcasing my journey, skills and projects through a timeless editorial experience. 
- -->
 </div>
 
 ## Tech Stack

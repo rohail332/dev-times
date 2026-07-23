@@ -82,6 +82,9 @@ const Name = () => {
               window.open("https://www.linkedin.com/in/muhammad-rohail-3457432b4/", "_blank");
             }} className="border   uppercase tracking-wider py-1 mb-2 w-full times cursor-pointer hover:bg-black hover:text-[#F1EDE5]">Linkedin</button>
             <button onClick={() => {
+              window.open("https://medium.com/@rohailtahir332", "_blank");
+            }} className="border   uppercase tracking-wider py-1 mb-2 w-full times cursor-pointer hover:bg-black hover:text-[#F1EDE5]">Medium</button>
+            <button onClick={() => {
               window.open("https://www.github.com/rohail332", "_blank");
             }} className="border uppercase tracking-wider py-1 mb-2 w-full times cursor-pointer hover:bg-black hover:text-[#F1EDE5]">GITHUB</button>
           </div>
