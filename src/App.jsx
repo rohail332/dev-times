@@ -1,7 +1,8 @@
 import Navbar from "./Components/Navbar";
 import HeroSection from "./Components/HeroSection";
-
-import AsideBar from "./Components/SideBar";
+import ExperienceTimeline from "./Components/ExperienceTimeline";
+import AsideBar from "./Components/AsideBar";
+import Footer from "./Components/Footer"
 
 function App() {
 
@@ -34,7 +35,7 @@ function App() {
         {/* left side components*/}
         <div className="left-side">
           <HeroSection />
-          
+          <ExperienceTimeline />
         </div>
 
         {/* right side components*/}
@@ -44,6 +45,7 @@ function App() {
 
       </div>
 
+      <Footer />
     </>
   )
 }
