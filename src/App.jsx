@@ -1,6 +1,8 @@
 import Navbar from "./Components/Navbar";
 import HeroSection from "./Components/HeroSection";
 
+import AsideBar from "./Components/SideBar";
+
 function App() {
 
   const dateShow = () => {
@@ -26,7 +28,7 @@ function App() {
         </div>
       </div>
 
-      {/* div for components hero timeline projects and aside */}
+      {/* div for components hero timeline projects and side */}
       <div className="main-div fl not-first-of-type:flex max-sm:flex-col max-md:flex-col max-lg:flex-col ">
 
         {/* left side components*/}
@@ -37,6 +39,7 @@ function App() {
 
         {/* right side components*/}
         <div className="right-side">
+          <AsideBar />
         </div>
 
       </div>
