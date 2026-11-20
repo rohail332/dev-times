@@ -3,7 +3,7 @@ const ContactInformation = () => {
 
     const info = [
         { id: 1, name: 'Email Inquiry', value: 'mailto:rohailtahir332@gmail.com' },
-        { id: 2, name: 'Linkedin', value: 'https://www.linkedin.com/in/muhammad-rohail-3457432b4/' },
+        { id: 2, name: 'Linkedin', value: 'https://www.linkedin.com/in/muhammadrohail332' },
         { id: 3, name: 'GITHUB', value: 'https://www.github.com/rohail332' },
         { id: 4, name: 'youtube', value: 'https://www.youtube.com/@OctoKnowz' },
         { id: 5, name: 'Instagram', value: 'https://www.instagram.com/rohailtahir31' },
