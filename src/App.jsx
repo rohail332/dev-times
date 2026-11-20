@@ -1,9 +1,9 @@
 import Navbar from "./Components/Navbar";
 import HeroSection from "./Components/HeroSection";
 import ExperienceTimeline from "./Components/ExperienceTimeline";
-import AsideBar from "./Components/AsideBar";
+import SideBar from "./Components/SideBar";
 import Footer from "./Components/Footer"
-
+import Projects from "./Components/Projects"
 function App() {
 
   const dateShow = () => {
@@ -36,11 +36,12 @@ function App() {
         <div className="left-side">
           <HeroSection />
           <ExperienceTimeline />
+          <Projects/>
         </div>
 
         {/* right side components*/}
         <div className="right-side">
-          <AsideBar />
+          <SideBar />
         </div>
 
       </div>
